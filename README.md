@@ -36,3 +36,10 @@ Missing values were present in the Data set but there was no record of Duplicate
 ![image3](Images/outputruntime_min.png)
 
 
+# conclusion
+
+1.From the study above, it is evident that the average sales(domestic) that the company should expect is about 0.85e+8 since that is the median height that most companies are achieving.
+2.Action,adventure, sci-Fi are the most viewed genres. Microsoft studio needs to invest in these genres as that is what most viewers need.
+3.Most viewers prefer movies that range around 148 minutes. Therfore, while making movies, they neeed to makes sure that their length is about 148 minutes.
+
+
