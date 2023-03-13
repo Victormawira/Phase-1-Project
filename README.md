@@ -27,12 +27,12 @@ Missing values were present in the Data set but there was no record of Duplicate
 
 # Data Analysis and Visualization
 * *bom.movie.csv*
-
+![image1](Images/output.png)
 
 
 * *Movie Basics*
  
-
-
+![image2](Images/outputgenre.png)
+![image3](Images/outputruntime_min.png)
 
 
